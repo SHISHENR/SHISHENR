@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/SHISHENR/SHISHENR"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
     <a href="https://github.com/SHISHENR/SHISHENR/graphs/contributors"><img src="https://img.shields.io/github/contributors/SHISHENR/SHISHENR?color=blue"></a>
     <a href="https://github.com/SHISHENR/SHISHENR/stargazers"><img src="https://img.shields.io/github/stars/SHISHENR/SHISHENR.svg?logo=github"></a>
     <a href="https://github.com/SHISHENR/SHISHENR/network/members"><img src="https://img.shields.io/github/forks/SHISHENR/SHISHENR.svg?color=blue&logo=github"></a>
@@ -69,7 +69,7 @@
 <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/SHISHENR/SHISHENR/master/assets/twitter.svg" alt="SHISHENR" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/SHISHENR/SHISHENR/master/assets/linkedin.svg" alt="SHISHENR" height="30" width="30" /></a>
 <a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/SHISHENR/SHISHENR/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+<a href="https://api.whatsapp.com/send?phone=Null" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
 <div align="center">
